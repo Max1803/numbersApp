@@ -1,0 +1,82 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="myapp.max.number.numActivity">
+
+    <item
+        android:id="@+id/sqrt"
+        android:orderInCategory="100"
+        android:title="sqrt"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pow"
+        android:orderInCategory="100"
+        android:title="pow"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sin"
+        android:orderInCategory="100"
+        android:title="sin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cos"
+        android:orderInCategory="100"
+        android:title="cos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/tan"
+        android:orderInCategory="100"
+        android:title="tan"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/asin"
+        android:orderInCategory="100"
+        android:title="asin"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/acos"
+        android:orderInCategory="100"
+        android:title="acos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/atan"
+        android:orderInCategory="100"
+        android:title="atan"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/max"
+        android:orderInCategory="100"
+        android:title="max"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/min"
+        android:orderInCategory="100"
+        android:title="min"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/round"
+        android:orderInCategory="100"
+        android:title="round"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sum"
+        android:orderInCategory="100"
+        android:title="sum"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/average"
+        android:orderInCategory="100"
+        android:title="average"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/even"
+        android:orderInCategory="100"
+        android:title="even"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/odd"
+        android:orderInCategory="100"
+        android:title="odd"
+        app:showAsAction="never" />
+
+</menu>
